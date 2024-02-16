@@ -1,11 +1,11 @@
 // Esercizio 1
 
-let number = 100; //number
+let number = 100; //integer
 console.log(number)
 
 // Esercizio 2
 
-const PI = 3.14; //number
+const PI = 3.14; //float
 console.log(PI)
 
 // Esercizio 2/B
@@ -18,7 +18,7 @@ non una variabile che puo modificarsi
 */
 // Esercizio 2/C
 
-let radius = 8 //number
+let radius = 8 //integer
 
 let circle = (radius * 2) * PI //string
 console.log(circle)
