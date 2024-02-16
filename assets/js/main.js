@@ -12,4 +12,9 @@ console.log(PI)
 
 // const PI = 3.1416 da errore di sintassi perchè 'const', viene utilizzato per assegnare una constante e non una variabile che puo modificarsi
 
-// Esercio
+// Esercizio 2/C
+
+let radius = 8 //number
+
+let circle = (radius*2)*PI //string
+console.log(circle)
